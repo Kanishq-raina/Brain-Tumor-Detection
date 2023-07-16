@@ -1,0 +1,18 @@
+STEP1:IMPORTANT LINKS->
+{
+1.https://www.youtube.com/watch?v=_ynMa2XlRgk
+2.https://www.youtube.com/watch?v=4iUJZEa2xP8
+3.https://youtu.be/h1sAzPojKMg
+}
+
+STEP2: Download Testing,Training and MY_MODEL.hdf5 from the provided google drive in the same folder as your project.(DO NOT DOWNLOAD REST FILES)
+STEP3: Run Brain_Tumour_Classification jupyter notebook on you system.
+STEP4: During the execution of this code 3 extra files would be made of cropped,augmented and MY_MODEL.
+
+********THIS MY MODEL FOLDER CONTAIN THE RESNET 50 TRAINING MODEL OF FILE TYPE(.h5) WHICH WOULD BE LATER USE***
+
+
+STEP5: Make changes in front end system of web app according to your needs.
+STEP6: RUN app.py and make changes according to your need.
+
+###########   FOR ANY ERROR YOU ENCOUNTER JUST SIMPLY TYPE THE ERROR IN CHAT GPT #########
