@@ -6,6 +6,7 @@ STEP1:IMPORTANT LINKS->
 }
 
 STEP2: Download Testing,Training and MY_MODEL.hdf5 from the provided google drive in the same folder as your project.(DO NOT DOWNLOAD REST FILES)
+GOOGLE DRIVE LINK -> https://drive.google.com/drive/folders/1_MTEpYm9yNta3fOin3qJ4FSK74zpvaZO?usp=drive_link
 STEP3: Run Brain_Tumour_Classification jupyter notebook on you system.
 STEP4: During the execution of this code 3 extra files would be made of cropped,augmented and MY_MODEL.
 
